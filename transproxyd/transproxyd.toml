@@ -1,0 +1,5 @@
+ProxyAddr = "socks5://172.16.0.1:2000"
+ListenAddr = "127.0.0.1:12345"
+LogLevel = "Debug"
+Uid = "nobody"
+Gid = "nogroup"
